@@ -2,7 +2,7 @@ hi
 iam Bhanu
 
 {
-a=123
+a=123 b=234
  print.output.println()
 }
 
