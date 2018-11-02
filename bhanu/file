@@ -2,6 +2,7 @@ hi
 iam Bhanu
 
 {
+a=123
  print.output.println()
 }
 
